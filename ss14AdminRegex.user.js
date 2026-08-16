@@ -7,7 +7,7 @@
 // @grant       GM_getValue
 // @grant       GM_setValue
 //
-// @downloadURL https://raw.githubusercontent.com/DisposableCrewmember42/ss14AdminRegex.user.js/main/ss14AdminRegex.user.js
+// @downloadURL https://raw.githubusercontent.com/DisposableCrewmember42/ss14AdminRegex.user.js/refs/heads/main/ss14AdminRegex.user.js
 // @author      DisposableCrewmember42
 // @description Adds basic regex filtering functionality to SS14.Admin log search results
 // ==/UserScript==
